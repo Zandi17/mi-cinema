@@ -1,0 +1,163 @@
+/* GLOBAL */
+@import url(https://fonts.googleapis.com/css?family=Open+Sans);
+
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+.border {
+	border: 1px solid green;
+	width: 75px;
+	height: 40px; 
+	margin-left: 0px;
+	border-radius: 4px;
+	color: green;
+	padding: 8px;
+	text-decoration: none;
+}
+.fixed {
+	position: fixed;
+	background: white;
+	width: 100%;
+	opacity: 0.9;
+	filter:  alpha(opacity=90);
+}
+}
+.logotipo{
+	height: 65px;
+	margin-left: 40px;
+}
+
+.banner {
+	background: url(../img/banner.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	padding-top: 70px;
+}
+
+.movie {
+	padding-top: 28px;
+	font-size: 12px;
+	color: #ddd;
+}
+.busca {
+	margin-top: 28px;
+	margin-left: 100px;
+}
+.ico {
+	width: 90px;
+	height: 90px;
+	margin: 200px;
+}
+.lista {
+	background: orange;
+	padding: 10px;
+}
+.list {
+	width: 180px;
+	height: 240px;
+	display: inline;
+	margin:5px;
+}
+.imagen {
+	width: 250px;
+	height: 350px;
+}
+.title-white {
+	color: white;
+	padding: 20px 0px;
+	font-size: 40px;
+	border-bottom: 2px solid gray;
+	margin-bottom: 25px;
+}
+.boton1 {
+	background-color: orange;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	border-radius: 5px;
+	padding-top: 17px;
+	padding-bottom: 17px;
+	padding-left: 30px;
+	padding-right: 42px;
+	display: inline-block;
+}
+.boton2 {
+	background-color: brown;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	border-radius: 5px;
+	padding-top: 17px;
+	padding-bottom: 17px;
+	padding-left: 34px;
+	padding-right: 50px;
+	display: inline-block;
+	margin: 9px 0px;
+}
+.new {
+	color: #ddd;
+	padding: 10px;
+}
+.titulo{
+	padding: 9px 0px;
+}
+.medio {
+	color:#ddd;
+	margin: 20px 0px;
+}
+.link a {
+	
+	font-size: 15px;
+	color: orange;
+	text-decoration: none;
+}
+
+.link{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+.enlace {
+	background-color: brown;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+	border-radius: 5px;
+	padding-top: 17px;
+	padding-bottom: 17px;
+	padding-left: 34px;
+	padding-right: 50px;
+	display: inline-block;
+	margin: 9px 0px;
+}
+.primero {
+	color: #ddd;
+	margin: 20px;
+	font-size: 28px;
+}
+.segundo {
+	font-size: 36px;
+	margin: 20px;
+}
+.tercero {
+	color: #ddd;
+	margin: 20px;
+	font-size: 24px;
+}
+.cuarto {
+	font-size: 15px;
+	color:orange;
+	margin: 20px;
+}
+.footer {
+	background: grey;
+	height: 250px;
+	padding: 20px;
+	color: white;
+}
+.ultimo {
+	margin: 20px 0px;
+}
+.create {
+	margin: 20px 0px;
+}
