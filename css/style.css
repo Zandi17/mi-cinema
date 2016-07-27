@@ -4,6 +4,13 @@
 *{
 	font-family: 'Open Sans', sans-serif;
 }
+.repons {
+	box-sizing: border-box;
+	width: 1500px;
+	max-width: 100%;
+	margin: auto;
+	position: relative;
+}
 .border {
 	border: 1px solid green;
 	width: 75px;
@@ -24,7 +31,6 @@
 }
 .logotipo{
 	height: 65px;
-	margin-left: 40px;
 }
 
 .banner {
@@ -45,7 +51,6 @@
 	margin-left: 100px;
 }
 .ico {
-	width: 90px;
 	height: 90px;
 	margin: 200px;
 }
